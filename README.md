@@ -1,2 +1,2 @@
-# Example
-Practice git 
+# Public Repo
+
